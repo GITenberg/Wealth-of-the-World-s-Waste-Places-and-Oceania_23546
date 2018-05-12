@@ -1,0 +1,31 @@
+_repo: Wealth-of-the-World-s-Waste-Places-and-Oceania_23546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gilson, Jewett C. (Jewett Castello)
+    aliases:
+    - Gilson, J. C. (Jewett Castello)
+    - Gilson, Jewett Castello
+    birthdate: 1844
+    deathdate: 1926
+    gutenberg_agent_id: '25907'
+    url: http://www.gutenberg.org/2009/agents/25907
+description: ''
+gutenberg_issued: '2007-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23546'
+  lccn: '13005503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Waste lands'
+- !lcsh 'Oceania -- Economic conditions'
+- !lcc 'HC'
+title: Wealth of the World's Waste Places and Oceania
+url: http://www.gutenberg.org/ebooks/23546
